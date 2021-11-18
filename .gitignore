@@ -1,0 +1,6 @@
+# Dirs
+.vscode
+vendor
+
+# Regular files
+composer.lock

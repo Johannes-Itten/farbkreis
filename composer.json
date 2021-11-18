@@ -1,0 +1,18 @@
+{
+    "name": "ismaxim/color-studio",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ismaxim\\ColorStudio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maxim Grynykha",
+            "email": "maximgrynykha@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
